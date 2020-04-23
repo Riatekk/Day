@@ -1,9 +1,9 @@
-utilisateur:
-    resource: "@UtilisateurBundle/Resources/config/routing.yml"
-    prefix:   /
-
 plateforme:
     resource: "@PlateformeBundle/Resources/config/routing.yml"
+    prefix:   /
+
+utilisateur:
+    resource: "@UtilisateurBundle/Resources/config/routing.yml"
     prefix:   /
 
 app:
