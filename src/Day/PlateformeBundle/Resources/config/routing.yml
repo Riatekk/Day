@@ -1,0 +1,3 @@
+plateforme_homepage:
+    path:     /
+    defaults: { _controller: PlateformeBundle:Default:index }
